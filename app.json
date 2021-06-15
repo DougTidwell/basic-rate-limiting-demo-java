@@ -1,7 +1,7 @@
 {
   "name": "Spring(java) Redis rate limiting Example",
-  "description": "Show how the redis works with Spring(java).",
-  "repository": "https://github.com/",
+  "description": "Show how Redis works with Spring(java).",
+  "repository": "https://github.com/redis-developer/basic-rate-limiting-demo-java.git",
   "logo": "https://redis.io/images/redis-white.png",
   "keywords": ["java", "spring", "redis"],
   "addons": ["heroku-redis"]
